@@ -20,8 +20,9 @@ Or install it yourself as:
     $ gem install viewfooterMYK
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+ViewfooterMYK:Renderer.copyright "Yosef Kassabi", "All rights reserved"
+```
 
 ## Development
 
